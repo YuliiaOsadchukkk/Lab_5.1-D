@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest5.1-D.cpp
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\BitString.cpp(18,26): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\BitString.cpp(39,26): warning C4018: '<': signed/unsigned mismatch
+     Creating library F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Debug\UnitTest5.1-D.lib and object F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Debug\UnitTest5.1-D.exp
+  UnitTest5.1-D.vcxproj -> F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Debug\UnitTest5.1-D.dll

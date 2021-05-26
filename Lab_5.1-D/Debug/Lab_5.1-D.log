@@ -1,0 +1,21 @@
+﻿  Pair.cpp
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Pair.h(24,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Pair.h(31,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Pair.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Pair.cpp(27,70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Pair.cpp(61,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Pair.cpp(63,7): warning C4101: 'first': unreferenced local variable
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Pair.cpp(63,14): warning C4101: 'second': unreferenced local variable
+  Source.cpp
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Pair.h(24,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Pair.h(31,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\BitString.h(4,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\BitString.h(11,11): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\BitString.h(18,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\BitString.h(19,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\BitString.h(20,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\BitString.h(21,46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Source.cpp(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Lab_5.1-D\Source.cpp(16,26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  Lab_5.1-D.vcxproj -> F:\ООП\Тема 5\Lab_5.1-D\Lab_5.1-D\Debug\Lab_5.1-D.exe
